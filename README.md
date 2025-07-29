@@ -11,10 +11,6 @@ DevAssist is a professional educational platform that empowers instructors to cr
 Deployed on Vercel:
 [DevAssist Live](https://dev-assist-frontend.vercel.app/)
 
-## ▶️ YouTube Demo Link
-
-Coming soon! *(You can replace this with your demo video link)*
-
 ---
 
 ## 📑 Overview
@@ -87,17 +83,6 @@ DevAssist is deployed on **Vercel**, offering:
 * **Scalability**: Handles high user traffic.
 * **Reliability**: Minimal downtime and secure hosting.
 
----
-
-## ❓ FAQ
-
-### How can I register as an instructor?
-
-Any user can choose the instructor role during the signup process or be upgraded manually by admin.
-
-### Is there a demo admin panel?
-
-The admin panel is currently internal. If you'd like to explore it for evaluation, contact us at: `devassistteam@gmail.com`
 
 ---
 
@@ -112,15 +97,3 @@ We thank **Prof. Harpreet Singh Jattana** for guiding us throughout this interns
 * **Het Gandhi** – 202201167
 * **Harsh Bosamiya** – 202201243
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 📬 Contact
-
-For inquiries, demo access, or suggestions, email us at:
-**[devassistteam@gmail.com](mailto:devassistteam@gmail.com)**
